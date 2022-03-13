@@ -1,4 +1,4 @@
-- 👋 óla meu é nome Guilherme Silva.
+- 👋 Óla meu é nome Guilherme Silva.
 
 - 👀 Gosto muito de futebol...
 
@@ -6,7 +6,7 @@
 
 - 💞️ Gosto de colaborar com vários projetos e ter mais conhecimentos.
 
-- Voçe pode encontrar alguns projetos meus logo abaixo
+- Você pode encontrar alguns projetos meus logo abaixo
 
 <!---
 Guilherme2022developer/Guilherme2022developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
