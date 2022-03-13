@@ -1,4 +1,4 @@
-- 👋 Óla meu é nome Guilherme Silva.
+- 👋 Olá meu é nome Guilherme Silva.
 
 - 👀 Gosto muito de futebol...
 
