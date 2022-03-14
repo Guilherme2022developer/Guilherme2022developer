@@ -2,7 +2,7 @@
 
 - 👀 Gosto muito de futebol...
 
-- 🌱 Gosto muito da linguagem de programação C# .NET diga de passagem é a que estou desenvolvedo vários projetos.
+- 🌱 Gosto muito da linguagem de programação C# .NET diga de passagem é a que estou desenvolvendo vários projetos.
 
 - 💞️ Gosto de colaborar com vários projetos e ter mais conhecimentos.
 
